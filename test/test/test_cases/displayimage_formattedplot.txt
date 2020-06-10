@@ -1,0 +1,5 @@
+2 points: the images are square (32x32)
+2 points: there are two images, side by side (1 point if it creates two sequential graph windows, 0 points if one of the required graphs is actually missing)
+2 points: graph titles exist and are correct (1 point if they exist and say anything other than "Original" or "Projection")
+2 points: the data is displayed with imshow() as required, regardless of what it looks like
+2 points: there is a colorbar next to the image
